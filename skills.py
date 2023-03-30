@@ -1,4 +1,5 @@
 import re
+from bs4 import BeautifulSoup
 
 def get_skills(description, key_skills):
     pp = BeautifulSoup(description, features="html.parser").get_text()
