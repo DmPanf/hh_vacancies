@@ -10,4 +10,4 @@ poetry install
 # poetry shell
 
 # 3. запустить стартовый скрипт проекта
-poetry run python main.py
+poetry run python main.py &
