@@ -7,6 +7,6 @@
 - **[Jupyter Notebook или из Google Colab](https://github.com/dnp34/hh_vacancies/blob/main/L12_Python.ipynb)**
 ---
 
-## Примерный результат:
+## Примерный результат через `poetry`:
 
 ![ScreenShot](https://raw.githubusercontent.com/dnp34/hh_vacancies/main/result.jpg)
