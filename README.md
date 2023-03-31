@@ -1,6 +1,6 @@
 # hh_vacancies
 
-**Запуск проекта:**
+**Запуск проекта через `poetry`:**
 
 - **`git clone https://github.com/dnp34/hh_vacancies.git && cd hh_vacancies && bash start.sh`**
 
