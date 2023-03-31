@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "hh-vacancies"
 version = "0.1.0"
-description = "requests by keywords"
+description = "requests HH by keywords"
 authors = ["Dmitry <7292337@gmail.com>"]
 license = "MIT"
 readme = "README.md"
